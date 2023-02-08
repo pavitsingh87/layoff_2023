@@ -2,9 +2,9 @@
 
 
 $servername = "localhost:3306";
-$username = "root";
-$password = "Waheguru@1987";
-$dbname = "layoff_data";
+$username = "";
+$password = "";
+$dbname = "";
 $duplicate=0;
 // Create connection
 $conn = new mysqli($servername, $username, $password,$dbname);
